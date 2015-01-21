@@ -1,1 +1,1 @@
-"Hello GitHub Advanced!"
+"Hello every Git services!"
